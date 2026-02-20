@@ -1,0 +1,9 @@
+#titulo {
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px;
+    background-color: dimgray;
+    border: 2px solid black;
+    border-radius: 10px;
+}
